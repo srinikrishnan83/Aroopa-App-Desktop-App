@@ -12,7 +12,7 @@ Follow the on-screen instructions.
 
 ## macOS
 
-Download the latest .dmg file from the Releases (v1.0.3)
+Download the latest .dmg file from the Releases (v1.0.5)
 
 Open the .dmg and drag the app to Applications.
 
